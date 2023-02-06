@@ -1,0 +1,77 @@
+{
+    "establecimiento": {
+        "nombre": "Liceo",
+        "bibliotecas": [
+            {
+                "nombre": "Edificio A",
+                "libros": [
+                    {
+                        "nombre": "Don Quijote",
+                        "autor": "Miguel de Cervantes",
+                        "primeraEdicion": 1605
+                    },
+                    {
+                        "nombre": "Historia de dos ciudades",
+                        "autor": "J. R. R. Tolkien",
+                        "primeraEdicion": 1954
+                    },
+                    {
+                        "nombre": "Harry Potter y la piedra filosofal",
+                        "autor": "J.K. Rowling",
+                        "primeraEdicion": 1997
+                    },
+                    {
+                        "nombre": "El principito",
+                        "autor": "Antoine de Saint-Exupéry",
+                        "primeraEdicion": 1943
+                    }
+                ]
+            },
+            {
+                "nombre": "Edificio B",
+                "libros": [
+                    {
+                        "nombre": "Historia de dos ciudades",
+                        "autor": "J. R. R. Tolkien",
+                        "primeraEdicion": 1954
+                    },
+                    {
+                        "nombre": "Harry Potter y la piedra filosofal",
+                        "autor": "J.K. Rowling",
+                        "primeraEdicion": 1997
+                    },
+                    {
+                        "nombre": "El principito",
+                        "autor": "Antoine de Saint-Exupéry",
+                        "primeraEdicion": 1943
+                    },
+                    {
+                        "nombre": "El hobbit",
+                        "autor": "J. R. R. Tolkien",
+                        "primeraEdicion": 1937
+                    }
+                ]
+            },
+            {
+                "nombre": "Edificio C",
+                "libros": [
+                    {
+                        "nombre": "Historia de dos ciudades",
+                        "autor": "J. R. R. Tolkien",
+                        "primeraEdicion": 1954
+                    },
+                    {
+                        "nombre": "Harry Potter y la piedra filosofal",
+                        "autor": "J.K. Rowling",
+                        "primeraEdicion": 1997
+                    },
+                    {
+                        "nombre": "Diez negritos",
+                        "autor": "Agatha Christie",
+                        "primeraEdicion": 	1939
+                    }
+                ]
+            }
+        ]
+    }
+}
